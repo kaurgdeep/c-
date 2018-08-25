@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\bin\Debug\netcoreapp2.0\new_project.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\bin\Debug\netcoreapp2.0\new_project.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\bin\Debug\netcoreapp2.0\new_project.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\bin\Debug\netcoreapp2.0\new_project.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\bin\Debug\netcoreapp2.0\new_project.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\obj\Debug\netcoreapp2.0\new_project.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\obj\Debug\netcoreapp2.0\new_project.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\obj\Debug\netcoreapp2.0\new_project.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\obj\Debug\netcoreapp2.0\new_project.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\obj\Debug\netcoreapp2.0\new_project.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\new_project\obj\Debug\netcoreapp2.0\new_project.pdb

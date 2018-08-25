@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\bin\Debug\netcoreapp2.0\newlogin.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\bin\Debug\netcoreapp2.0\newlogin.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\bin\Debug\netcoreapp2.0\newlogin.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\bin\Debug\netcoreapp2.0\newlogin.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\bin\Debug\netcoreapp2.0\newlogin.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\obj\Debug\netcoreapp2.0\newlogin.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\obj\Debug\netcoreapp2.0\newlogin.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\obj\Debug\netcoreapp2.0\newlogin.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\obj\Debug\netcoreapp2.0\newlogin.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\obj\Debug\netcoreapp2.0\newlogin.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newlogin\obj\Debug\netcoreapp2.0\newlogin.pdb

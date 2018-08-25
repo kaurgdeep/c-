@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\bin\Debug\netcoreapp2.0\mns.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\bin\Debug\netcoreapp2.0\mns.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\bin\Debug\netcoreapp2.0\mns.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\bin\Debug\netcoreapp2.0\mns.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\bin\Debug\netcoreapp2.0\mns.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\obj\Debug\netcoreapp2.0\mns.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\obj\Debug\netcoreapp2.0\mns.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\obj\Debug\netcoreapp2.0\mns.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\obj\Debug\netcoreapp2.0\mns.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\obj\Debug\netcoreapp2.0\mns.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\mns\obj\Debug\netcoreapp2.0\mns.pdb

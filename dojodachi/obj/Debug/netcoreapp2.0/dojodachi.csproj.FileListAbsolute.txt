@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.pdb

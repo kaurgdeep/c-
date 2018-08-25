@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\bin\Debug\netcoreapp2.0\collections_practice.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\bin\Debug\netcoreapp2.0\collections_practice.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\bin\Debug\netcoreapp2.0\collections_practice.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\bin\Debug\netcoreapp2.0\collections_practice.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\bin\Debug\netcoreapp2.0\collections_practice.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\obj\Debug\netcoreapp2.0\collections_practice.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\obj\Debug\netcoreapp2.0\collections_practice.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\obj\Debug\netcoreapp2.0\collections_practice.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\obj\Debug\netcoreapp2.0\collections_practice.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\obj\Debug\netcoreapp2.0\collections_practice.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\collections_practice\obj\Debug\netcoreapp2.0\collections_practice.csprojResolveAssemblyReference.cache

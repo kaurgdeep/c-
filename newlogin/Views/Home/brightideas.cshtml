@@ -1,0 +1,22 @@
+@model Idea
+<h1>Hi @ViewBag.ExistingUser.FirstName </h1>
+<a href="Logout" style="float: right; margin-bottom: 10px;">Logout</a>
+
+<form action="postidea" method="post">
+    <p><input type="text" asp-for="Post" placeholder="Post Something Here......" ><br></p>
+    <p><input type="submit"  value="Idea!" ></p>
+</form>
+<h4>@ViewBag.LikeError</h4>
+@foreach( var item in ViewBag.Ideas)
+{
+   
+    <div style="width: 400px; border: 5px solid black;"><a href="usersprofile/@item.UserId">@item.User.FirstName</a>  Says:  <p>@item.Post</p>
+    
+    </div>
+    <P><a href="Like/@item.IdeaId">Like</a>   <a href="LikeStatus/@item.IdeaId">@item.peopleslike.Count people Like this</a></P>  
+       
+    if( @item.UserId == @ViewBag.ExistingUserId){
+        <p><a href="delete/@item.IdeaId">delete</a></p>
+    }
+}
+

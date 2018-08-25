@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\bin\Debug\netcoreapp2.0\wedplan.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\bin\Debug\netcoreapp2.0\wedplan.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\bin\Debug\netcoreapp2.0\wedplan.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\bin\Debug\netcoreapp2.0\wedplan.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\bin\Debug\netcoreapp2.0\wedplan.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\obj\Debug\netcoreapp2.0\wedplan.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\obj\Debug\netcoreapp2.0\wedplan.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\obj\Debug\netcoreapp2.0\wedplan.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\obj\Debug\netcoreapp2.0\wedplan.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\obj\Debug\netcoreapp2.0\wedplan.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wedplan\obj\Debug\netcoreapp2.0\wedplan.pdb

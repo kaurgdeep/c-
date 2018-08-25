@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\bin\Debug\netcoreapp2.0\rest_auranter.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\bin\Debug\netcoreapp2.0\rest_auranter.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\bin\Debug\netcoreapp2.0\rest_auranter.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\bin\Debug\netcoreapp2.0\rest_auranter.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\bin\Debug\netcoreapp2.0\rest_auranter.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\obj\Debug\netcoreapp2.0\rest_auranter.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\obj\Debug\netcoreapp2.0\rest_auranter.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\obj\Debug\netcoreapp2.0\rest_auranter.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\obj\Debug\netcoreapp2.0\rest_auranter.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\obj\Debug\netcoreapp2.0\rest_auranter.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\rest_auranter\obj\Debug\netcoreapp2.0\rest_auranter.pdb

@@ -1,0 +1,21 @@
+<a href="/Logout" style="float: right; margin-bottom: 10px;">Logout</a>
+<a href="/dashboardbutton" style="float:right; padding-right:25px">Bright Idea</a>
+
+<a href="/usersprofile/@ViewBag.idea.UserId">@ViewBag.idea.User.FirstName</a>  Says: <div style="width: 400px; border: 5px solid black; margin-top: 20px;"> @ViewBag.idea.Post</div>
+<p>People Who Like The Post</p>
+<table>
+    <thead>
+        <td>Alias</td>
+        <td>Name</td>
+    </thead>
+    <tbody>
+        @foreach(var item in ViewBag.idea.peopleslike){
+        <tr>
+            <td style="padding-right: 30px;"><a href="/usersprofile/@item.UserId">@item.User.LastName</a></td>
+
+            <td>@item.User.FirstName</td>
+            
+        </tr>
+        }
+    </tbody>
+</table>

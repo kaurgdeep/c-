@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\obj\Debug\netcoreapp2.0\wall.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\obj\Debug\netcoreapp2.0\wall.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\obj\Debug\netcoreapp2.0\wall.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\obj\Debug\netcoreapp2.0\wall.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\bin\Debug\netcoreapp2.0\wall.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\bin\Debug\netcoreapp2.0\wall.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\bin\Debug\netcoreapp2.0\wall.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\bin\Debug\netcoreapp2.0\wall.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\bin\Debug\netcoreapp2.0\wall.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\obj\Debug\netcoreapp2.0\wall.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\wall\obj\Debug\netcoreapp2.0\wall.pdb

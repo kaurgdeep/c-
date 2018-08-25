@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\obj\Debug\netcoreapp2.0\dojoactivities.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\obj\Debug\netcoreapp2.0\dojoactivities.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\obj\Debug\netcoreapp2.0\dojoactivities.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\obj\Debug\netcoreapp2.0\dojoactivities.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\bin\Debug\netcoreapp2.0\dojoactivities.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\bin\Debug\netcoreapp2.0\dojoactivities.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\bin\Debug\netcoreapp2.0\dojoactivities.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\bin\Debug\netcoreapp2.0\dojoactivities.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\bin\Debug\netcoreapp2.0\dojoactivities.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\obj\Debug\netcoreapp2.0\dojoactivities.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojoactivities\obj\Debug\netcoreapp2.0\dojoactivities.pdb

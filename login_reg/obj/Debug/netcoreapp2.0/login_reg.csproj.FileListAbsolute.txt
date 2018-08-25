@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\obj\Debug\netcoreapp2.0\login_reg.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\obj\Debug\netcoreapp2.0\login_reg.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\obj\Debug\netcoreapp2.0\login_reg.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\obj\Debug\netcoreapp2.0\login_reg.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\bin\Debug\netcoreapp2.0\login_reg.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\bin\Debug\netcoreapp2.0\login_reg.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\bin\Debug\netcoreapp2.0\login_reg.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\bin\Debug\netcoreapp2.0\login_reg.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\bin\Debug\netcoreapp2.0\login_reg.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\obj\Debug\netcoreapp2.0\login_reg.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\login_reg\obj\Debug\netcoreapp2.0\login_reg.pdb

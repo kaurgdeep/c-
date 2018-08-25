@@ -1,0 +1,10 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\bin\Debug\netcoreapp2.0\newcsharp.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\bin\Debug\netcoreapp2.0\newcsharp.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\bin\Debug\netcoreapp2.0\newcsharp.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\bin\Debug\netcoreapp2.0\newcsharp.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\bin\Debug\netcoreapp2.0\newcsharp.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\obj\Debug\netcoreapp2.0\newcsharp.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\obj\Debug\netcoreapp2.0\newcsharp.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\obj\Debug\netcoreapp2.0\newcsharp.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\obj\Debug\netcoreapp2.0\newcsharp.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\newcsharp\obj\Debug\netcoreapp2.0\newcsharp.pdb

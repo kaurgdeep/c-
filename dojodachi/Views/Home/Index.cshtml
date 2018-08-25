@@ -1,0 +1,48 @@
+﻿<html>
+    <head>
+        <title>
+        </title>
+        <style>
+            .main{
+                width: 600px;
+                border: 5px solid black;
+                margin-top: 10px;
+                text-align: center;
+            }
+            img{
+                width: 400px;
+            }
+            .main-btn.input{
+                display: inline-block;
+            }
+            /* body{
+                backgr
+            } */
+        </style>
+    </head>
+    <body>
+        <div class="main">
+            
+            <p>Fullness:@ViewBag.fullness    Happiness:@ViewBag.happiness    Meals:@ViewBag.meals    Energy:@ViewBag.energy  </p>
+            <img src="~/images/baby.jpg" alt="">
+            <p>You played with your Dojodachi Happiness +10, Energy -5</p>
+        </div>
+        <div class="main-btn">
+            <form action="feed" method="POST">
+            <input type="submit" value="Feed">
+            </form>
+            <form action="play" method="POST">
+            <input type="submit" value="Play">
+            </form>
+            <form action="work" method="POST">
+            <input type="submit" value="Work">
+            </form>
+            <form action="sleep" method="POST">
+            <input type="submit" value="Sleep">
+            </form>
+                        
+
+        </div>
+        
+    </body>
+</html>

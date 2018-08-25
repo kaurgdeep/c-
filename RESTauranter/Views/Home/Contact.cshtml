@@ -1,0 +1,18 @@
+﻿
+<style>
+
+</style>
+
+
+@{foreach(var review in @ViewBag.users ) {
+        <fieldset >
+            <legend> </legend>
+        </fieldset>
+        <p style="color:grey; font-size:25px;">Review for: @review.restaurantname     @review.star star</p>
+       <p >Reviewer:  @review.reviewername   @review.date.ToString("MMM dd, yyyy")</p>
+       <p>@review.reviews</p>
+      
+        
+    }
+    
+}

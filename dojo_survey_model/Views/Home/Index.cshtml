@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+        <style>
+            fieldset{
+                width: 400px;
+                height: 600px;
+            }
+        </style>
+    </head>
+    <body>
+        <fieldset>
+
+                <form action="submit" method="POST">
+                <p><label for="name">Your Name</label></p>
+                <p><input type="text" name="name"></p>
+                <p><label for="location">Location</label></p>
+                <p><select name="location">
+                    <option value="Bellevue">Bellevue</option>
+                    <option value="San Jose">San Jose</option>
+                    <option value="Dallas">Dallas</option>
+                    </select></p> 
+                <p><label for="language">Fav Language</label></p>
+                <p><select name="language">
+                    <option value="Python">Python</option>
+                    <option value="C#">C#</option>
+                    <option value="JavaScript">JavaScript</option>
+                    <option value="Java">Java</option>
+                    </select></p>
+                <p><label for="comment">Comment(Optional):</label></p>    
+                <p><textarea name="comment"></textarea></p>
+                <p><input type="submit" name="submit"></p>
+                
+                </form>
+            </fieldset>
+        
+    </body>
+</html>

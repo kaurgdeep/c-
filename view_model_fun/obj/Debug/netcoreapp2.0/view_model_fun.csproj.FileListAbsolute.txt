@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\bin\Debug\netcoreapp2.0\view_model_fun.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\bin\Debug\netcoreapp2.0\view_model_fun.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\bin\Debug\netcoreapp2.0\view_model_fun.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\bin\Debug\netcoreapp2.0\view_model_fun.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\bin\Debug\netcoreapp2.0\view_model_fun.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\obj\Debug\netcoreapp2.0\view_model_fun.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\obj\Debug\netcoreapp2.0\view_model_fun.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\obj\Debug\netcoreapp2.0\view_model_fun.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\obj\Debug\netcoreapp2.0\view_model_fun.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\obj\Debug\netcoreapp2.0\view_model_fun.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\view_model_fun\obj\Debug\netcoreapp2.0\view_model_fun.pdb

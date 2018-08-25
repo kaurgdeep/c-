@@ -1,0 +1,47 @@
+<h1>@ViewBag.LoggedUser.FirstName  @ViewBag.LoggedUser.LastName,  Welcome to the wedding planner!</h1>
+<a href="Logout" style="float: right; margin-bottom: 10px;">Logout</a>
+
+
+<table class="table" style="border: 10px solid black">
+    <thead>
+        <td>Wedding</td>
+        <td>Date</td>
+        <td>Guest(s)</td>
+        <td>Action</td>
+    </thead>
+    <tbody>
+            @foreach(var wed in  ViewBag.AllWeddings)
+            {
+                <tr>
+                    <td><a href="namelink/@wed.WeddingId">@wed.WedderOne & @wed.WedderTwo</a></td>
+                    <td>@wed.Date.ToString("MMM dd yyyy")</td>
+                    <td>@wed.Guests.Count</td>
+                    @if(@wed.UserId == ViewBag.LoggedUser.UserId)
+                    {
+                        <td><a href="delete/@wed.WeddingId">Delete</a></td>
+                    }
+                    else 
+                    {
+                        bool AttendingFlag = false;
+                        foreach(var item in wed.Guests)
+                        {
+                            if(item.UserId == ViewBag.LoggedUser.UserId)
+                            {
+                                AttendingFlag = true;
+                            }
+                        }
+                        if(AttendingFlag)
+                        {
+                            <td><a href="unrsvp/@wed.WeddingId">UN-RSVP</a></td>
+                        }
+                        else
+                        {
+                            <td><a href="rsvp/@wed.WeddingId">RSVP</a></td>
+                        }
+                    }
+                </tr>
+            }
+    </tbody>
+</table>
+<a href="NewWedding"><button>New Wedding</button></a>
+

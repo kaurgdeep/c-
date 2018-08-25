@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+@model Ninja
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+        <style>
+            fieldset{
+                width: 400px;
+                height: 600px;
+            }
+        </style>
+    </head>
+    <body>
+        <fieldset>
+
+                <form asp-action="submit" method="POST">
+                <p><span asp-validation-for="name"></span></p>
+                <p><label asp-for="name">Your Name</label></p>
+                <p><input asp-for="name"></p>
+                <p><span asp-validation-for="location"></span></p>
+                <p><label asp-for="location">Location</label></p>
+                <p><select asp-for="location">
+                    <option value="Bellevue">Bellevue</option>
+                    <option value="San Jose">San Jose</option>
+                    <option value="Dallas">Dallas</option>
+                    </select></p>
+                <p><span asp-validation-for="language"></span></p> 
+                <p><label asp-for="language">Fav Language</label></p>
+                <p><select asp-for="language">
+                    <option value="Python">Python</option>
+                    <option value="C#">C#</option>
+                    <option value="JavaScript">JavaScript</option>
+                    <option value="Java">Java</option>
+                    </select></p>
+                <p><span asp-validation-for="comment"></span></p>
+                <p><label asp-for="comment">Comment(Optional):</label></p>    
+                <p><textarea asp-for="comment"></textarea></p>
+                <p><input type="submit" name="submit"></p>
+                
+                </form>
+            </fieldset>
+        
+    </body>
+</html>

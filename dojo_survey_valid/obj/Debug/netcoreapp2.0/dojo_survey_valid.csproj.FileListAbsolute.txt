@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\bin\Debug\netcoreapp2.0\dojo_survey_valid.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\bin\Debug\netcoreapp2.0\dojo_survey_valid.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\bin\Debug\netcoreapp2.0\dojo_survey_valid.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\bin\Debug\netcoreapp2.0\dojo_survey_valid.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\bin\Debug\netcoreapp2.0\dojo_survey_valid.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\obj\Debug\netcoreapp2.0\dojo_survey_valid.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\obj\Debug\netcoreapp2.0\dojo_survey_valid.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\obj\Debug\netcoreapp2.0\dojo_survey_valid.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\obj\Debug\netcoreapp2.0\dojo_survey_valid.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\obj\Debug\netcoreapp2.0\dojo_survey_valid.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\dojo_survey_valid\obj\Debug\netcoreapp2.0\dojo_survey_valid.pdb

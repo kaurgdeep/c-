@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Razor</title>
+</head>
+    <body>
+        @{
+<!-- can be done either way in html or in controllers -->
+            List<string> Icecreams = new List<string>();
+
+                Icecreams.Add("choco");
+                Icecreams.Add("strawberry");
+                Icecreams.Add("coconut");
+                Icecreams.Add("pineapple");
+
+                string CurUser = "Gagandeep";
+                ViewBag.User = CurUser;
+                ViewBag.Icecreams = Icecreams;
+
+            foreach(string Icecream in Icecreams) 
+            {
+                <p>@Icecream</p>
+            } 
+        }
+    </body>
+</html>

@@ -1,0 +1,26 @@
+﻿@model string
+
+<html>
+    <head>
+        
+        <title>passcode</title>
+        <style>
+            body{
+                margin-top: 50px;
+            }
+            
+        </style>
+    </head>
+    <body>
+            <p>@Model</p>
+            <p>@ViewBag.count</p>
+        
+        <form asp-action="generate" asp-controller="Home" method="POST">
+        <p><input type="text"></p>
+        
+        <p><input type="submit" value="Generate"></p>
+        <p></p>
+        <p><a href="reset">Reset</a></p>
+        </form>
+    </body>
+</html>

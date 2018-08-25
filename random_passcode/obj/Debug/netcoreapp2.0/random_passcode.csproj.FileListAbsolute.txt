@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.pdb

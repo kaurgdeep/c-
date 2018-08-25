@@ -1,0 +1,11 @@
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\bin\Debug\netcoreapp2.0\bankacc.deps.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\bin\Debug\netcoreapp2.0\bankacc.runtimeconfig.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\bin\Debug\netcoreapp2.0\bankacc.runtimeconfig.dev.json
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\bin\Debug\netcoreapp2.0\bankacc.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\bin\Debug\netcoreapp2.0\bankacc.pdb
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\obj\Debug\netcoreapp2.0\bankacc.csprojResolveAssemblyReference.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\obj\Debug\netcoreapp2.0\bankacc.csproj.CoreCompileInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\obj\Debug\netcoreapp2.0\bankacc.AssemblyInfoInputs.cache
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\obj\Debug\netcoreapp2.0\bankacc.AssemblyInfo.cs
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\obj\Debug\netcoreapp2.0\bankacc.dll
+C:\Users\gagandeep\Desktop\coding-dojo\c#\bankacc\obj\Debug\netcoreapp2.0\bankacc.pdb

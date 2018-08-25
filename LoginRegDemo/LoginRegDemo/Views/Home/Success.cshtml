@@ -1,0 +1,44 @@
+@model Transaction
+
+<h2>WELCOME, @ViewBag.User.FirstName</h2> 
+
+
+
+    <p>First Name: @ViewBag.User.FirstName</p> 
+    <p>Last Name: @ViewBag.User.LastName</p>
+
+    
+        <p> <strong>Balance:</strong> @ViewBag.Account.Balance
+        <strong>Account ID#:</strong> @ViewBag.Account.AccountId
+         <strong>User ID#:</strong> @ViewBag.Account.UserId</p>
+    
+        <table>
+            <thead>
+                <td>Amount</td>
+                <td>Time</td>
+            </thead>
+            <tbody>
+                @foreach(var transaction in ViewBag.transactions) {
+                    <tr>
+                        <td>@transaction.Amount</td>
+                        <td>@transaction.Date</td>
+                    </tr>
+
+                }
+                
+            </tbody>
+        </table>
+    
+    <form asp-action="AddTransaction" method="POST" asp-controller="Home">
+        <label>Deposit/Withdraw  :</label>
+        <input type="number" asp-for="Amount"/>
+        <input type="submit" class="btn-primary" name="submit">
+        
+    
+    </form>
+
+    
+   
+
+    
+    
